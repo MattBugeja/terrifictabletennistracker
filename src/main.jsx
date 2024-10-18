@@ -19,7 +19,7 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
   },
   {
-    path: "/TerrificTableTopTracker",
+    path: "/TerrificTableTennisTracker",
     element: <TableTop />,
     errorElement: <ErrorPage />,
   },
